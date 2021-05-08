@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  
+  <link href="http://xzt970418.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://xzt970418.github.io/"/>
+  <updated>2021-05-08T15:44:52.915Z</updated>
+  <id>http://xzt970418.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://xzt970418.github.io/2021/05/08/hello-world/"/>
+    <id>http://xzt970418.github.io/2021/05/08/hello-world/</id>
+    <published>2021-05-08T15:44:52.915Z</published>
+    <updated>2021-05-08T15:44:52.915Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
